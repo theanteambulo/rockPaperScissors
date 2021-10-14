@@ -1,6 +1,6 @@
-# rockPaperScissors
+# RockPaperScissors
 
-## Your challenge is to make a brain training game that challenges players to win or lose at rock, paper, scissors.
+### Your challenge is to make a brain training game that challenges players to win or lose at rock, paper, scissors.
 
 - Each turn of the game the app will randomly pick either rock, paper, or scissors.
 - Each turn the app will either prompt the player to win or lose.
